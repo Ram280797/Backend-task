@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express-generator": "^4.16.1",
+    "modulename": "^0.0.4",
+    "node": "^20.16.0",
+    "nodeman": "^1.1.2"
+  }
+}
